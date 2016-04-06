@@ -1,6 +1,5 @@
 # Milestone1
 
-
 <b>Marking Criteria</b><br>
 You	must	submit	a	modified	version	of	the	game	that compiles,	and	contains	the	features	below.	In	
 assessment,	all	five	features	carry	equal	weight.
