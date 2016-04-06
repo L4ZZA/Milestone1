@@ -22,3 +22,6 @@ the	additional	attributes mentioned	above.	Add	print	statements	to	your	collisio
 so	that	the	changes	can	be	seen	to	be	happening. Wider	use	of	collision	handling	will	gain	
 higher	marks.</li>
 </ul>
+
+<b>Task</b><br>
+Make a small videogame using a simplyfied version of the Jbox2D physics engine library made by the university for academic purpose 
